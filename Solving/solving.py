@@ -101,6 +101,6 @@ if __name__ == "__main__":
         print("Using CPU")
 
     # sample
-    IN_FILE_PATH = "intermediate/network_32_01_poses.npzs10_spheresmall_pass_1_stageii.npz"
+    IN_FILE_PATH = "SampleData/32_01_poses.npzs10_spheresmall_pass_1_stageii_fixed.npz"
     OUT_FILE_PATH = "SampleData/network_32_01_poses.npzs10_spheresmall_pass_1_stageii.bvh"
     main(args, IN_FILE_PATH, OUT_FILE_PATH)
