@@ -1,0 +1,16 @@
+left_wrist -1
+left_index1 0
+left_index2 1
+left_index3 2
+left_middle1 0
+left_middle2 4
+left_middle3 5
+left_pinky1 0
+left_pinky2 7
+left_pinky3 8
+left_ring1 0
+left_ring2 10
+left_ring3 11
+left_thumb1 0
+left_thumb2 13
+left_thumb3 14
