@@ -25,3 +25,13 @@ Please check the README file in the subfolder `Solving`.
 
 ## Cite
 
+```
+@article{pan23localmocap,
+    title = {A Locality-based Neural Solver for Optical Motion Capture},
+    author = {Pan, Xiaoyu and Zheng, Bowen and Jiang, Xinwei and Xu, Guanglong and Gu, Xianli and Li, Jingxiang and Kou, Qilong and Wang, He and Shao, Tianjia and Zhou, Kun and Jin, Xiaogang},
+    journal = {ACM SIGGRAPH 2023 Conference Proceedings},
+  	pages={1--10},
+  	year={2023}
+  }
+```
+
